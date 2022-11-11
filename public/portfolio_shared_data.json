@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Ricardo Soto-fabela",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Savvy Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Ricardo2450",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ricardo-soto2450/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "images/portfolio/myProfile.jpg"
     },
     "skills": {
       "icons": [
